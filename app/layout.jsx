@@ -16,6 +16,10 @@ export const metadata = {
   },
   other: {
     "ai-content-declaration": "Original expert legal content by Eric M. Willie, P.C. — Austin, TX family law attorney with 20+ years experience.",
+    "geo.region": "US-TX",
+    "geo.placename": "Austin",
+    "geo.position": "30.2562;-97.8008",
+    "ICBM": "30.2562, -97.8008",
   },
 };
 
